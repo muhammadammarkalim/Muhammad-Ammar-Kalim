@@ -53,7 +53,7 @@ I am currently deep-diving into the **MERN Stack**:
 ## 📊 GitHub Statistics
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ammar-Kalim&show_icons=true&theme=dark&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d1117" 
+    src="https://avatars.githubusercontent.com/u/278976089?v=4&size=64" 
     height="175"
   />
   
