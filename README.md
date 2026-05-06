@@ -57,10 +57,7 @@ I am currently deep-diving into the **MERN Stack**:
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/278976089?v=4&size=64" 
-    height="175"
-  />
+ 
   
   <img 
     src="https://streak-stats.demolab.com?user=MuhammadAmmarKalim&theme=dark&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&background=0d1117" 
