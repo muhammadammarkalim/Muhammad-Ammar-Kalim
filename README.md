@@ -19,11 +19,16 @@ I am a passionate Full Stack Web Developer and an aspiring Cybersecurity enthusi
 
 ---
 
+---
+
 ## 📁 Projects
-### 🚀 [Project Name 1]
-- **Description:** A brief sentence about what this project does and why it's cool.
-- **Tech Stack:** React, Node.js, MongoDB.
-- [🔗 View Project](link-to-your-repo)
+
+### ⏳ [Countdown Bliss](https://github.com/muhammadammarkalim/Countdown-Bliss)
+- **Description:** My first-semester project: a web application for tracking religious holidays and creating custom user events.
+- **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap 5.
+- **Key Features:** Features dynamic countdown timers and Local Storage to save your custom events directly in the browser.
+- **Learning Milestone:** Gained hands-on experience with DOM manipulation and responsive UI design using Bootstrap.
+- [🔗 View Repository](https://github.com/muhammadammarkalim/Countdown-Bliss)
 
 
 
