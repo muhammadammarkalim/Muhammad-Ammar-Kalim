@@ -55,13 +55,22 @@ I am currently deep-diving into the **MERN Stack**:
 
 ---
 
+
+
+---
+
 ## 📊 GitHub Statistics
 <p align="center">
- 
+  <img 
+    src="https://github-stats-alpha.vercel.app/api?username=muhammadammarkalim&cc=0d1117&tc=00D1FF&ic=00D1FF&bc=0d1117" 
+    height="175" 
+    alt="GitHub Stats"
+  />
   
   <img 
-    src="https://streak-stats.demolab.com?user=MuhammadAmmarKalim&theme=dark&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&background=0d1117" 
-    height="175"
+    src="https://streak-stats.demolab.com?user=muhammadammarkalim&theme=tokyonight&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&background=0d1117" 
+    height="175" 
+    alt="GitHub Streak"
   />
 </p>
 
