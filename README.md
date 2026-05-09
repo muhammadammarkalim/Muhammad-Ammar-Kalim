@@ -30,7 +30,12 @@ I am a passionate Full Stack Web Developer and an aspiring Cybersecurity enthusi
 - **Learning Milestone:** Gained hands-on experience with DOM manipulation and responsive UI design using Bootstrap.
 - [🔗 View Repository](https://github.com/muhammadammarkalim/Countdown-Bliss)
 
-
+### 🗺️ [PK Mini Travel Planner](https://github.com/muhammadammarkalim/Mini-Travel-Planner)
+- **Description:** A terminal-based navigation tool that uses **Linked-List Graphs** and file handling to optimize travel routes between Pakistani cities.
+- **Key Features:** Implements **Dijkstra's Algorithm** for pathfinding, **BFS** for reachability, and **Prim's MST** for network optimization.
+- **Tech Stack:** C++, File I/O, Data Structures & Algorithms (DSA).
+- **Milestone:** Developed as a comprehensive DSA semester project focused on graph theory and efficient data management.
+- [🔗 View Repository](https://github.com/muhammadammarkalim/Mini-Travel-Planner)
 
 ---
 
